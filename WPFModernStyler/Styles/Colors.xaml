@@ -42,7 +42,9 @@
     <!--#region ToolTip Brushs-->
 
     <SolidColorBrush x:Key="ToolTip.Background" Color="#FFF1F2F7" />
+
     <SolidColorBrush x:Key="ToolTip.Border" Color="#FF767676" />
+
     <SolidColorBrush x:Key="ToolTip.Foreground" Color="#FF575757" />
 
 
@@ -52,28 +54,38 @@
     <!--#region LinearGradien Brushs-->
 
     <LinearGradientBrush x:Key="Colors.LinearGradient.Blue.DarkBlue">
+
         <GradientStop Offset="0.3" Color="#FF72ADFD" />
         <GradientStop Offset="1" Color="#FF3685FF" />
+
     </LinearGradientBrush>
 
     <LinearGradientBrush x:Key="Colors.LinearGradient.LightBlue.DarkBlue">
+
         <GradientStop Offset="0.3" Color="#FFA2D4FF" />
         <GradientStop Offset="1" Color="#FF7F9AFD" />
+
     </LinearGradientBrush>
 
     <LinearGradientBrush x:Key="Colors.LinearGradient.Blue.Pink">
+
         <GradientStop Offset="0.3" Color="#FF72ADFD" />
         <GradientStop Offset="1" Color="#FFFFC8F9" />
+
     </LinearGradientBrush>
 
     <LinearGradientBrush x:Key="Colors.LinearGradient.LightGreen.Ziti">
+
         <GradientStop Offset="0.3" Color="#FF2EFAB5" />
         <GradientStop Offset="1" Color="#FF95CC97" />
+
     </LinearGradientBrush>
 
     <LinearGradientBrush x:Key="Colors.LinearGradient.DarkPink.Pink">
+
         <GradientStop Offset="0.3" Color="#FFFF91C8" />
         <GradientStop Offset="1" Color="#FFFFC2EA" />
+
     </LinearGradientBrush>
 
 
@@ -84,8 +96,10 @@
     <!--#region RadialGradient Brushs-->
 
     <RadialGradientBrush x:Key="Colors.RadialGradient.Blue.DarkBlue">
+
         <GradientStop Offset="0.3" Color="#FF72ADFD" />
         <GradientStop Offset="1" Color="#FF3685FF" />
+
     </RadialGradientBrush>
 
 
